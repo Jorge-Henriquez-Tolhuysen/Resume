@@ -14,3 +14,8 @@
 
 ### Certifications
 - 2006, Sun Certified Java Programmer from Sun Microsystems, with 88% score.
+
+### Work Experience
+- From 2021 to 2025, at [FACILITY CONSULTANTS GmbH](https://www.get-fm.de) as an Independent consultant, Developed a PHP Class that takes an AutoCAD DWG 2D File and outputs SVG. Developed a JavaScript library that takes a BIM file and outputs a 3D rendering, both are used in the same website.
+- From 2021 to 2025, at ALVAREZ & ASOCIADOS SpA as an Independent consultant, Developed a Windows Desktop Application, written in C#, that does web scraping from an ERP and outputs on screen and in excel files, Balance Sheets and Income Statements.
+- From 2021 to 2025, as Stratex Consultores as an Independent consultant, Developed an Excel Plugin, written in C#, to Unattendedly Import and Merge Text Files.
