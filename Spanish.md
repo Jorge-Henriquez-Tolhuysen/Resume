@@ -9,7 +9,7 @@
 ---
 
 ### Estudios/Educación
-- Desde 1989 a 1994, Ingeniería Electrónica, titulo obtenido en la Universidad Técnica Federico Santa Maria en Valparaiso, Chile, Ayudante para las asignaturas de Programación de Computadores en Pascal y Telefonía.
+- Desde 1989 a 1994, Ingeniería Electrónica, título obtenido en la Universidad Técnica Federico Santa María en Valparaiso, Chile, Ayudante para las asignaturas de Programación de Computadores en Pascal y Telefonía.
 - Desde 2013 a 2016, Contabilidad y Auditoria, Todas las asignaturas aprobadas, sin titulación, en la Universidad Tecnológica de Chile INACAP, dos años consecutivos reconocido como el mejor estudiante del área de administración y negocios.
 
 ### Certificaciones
