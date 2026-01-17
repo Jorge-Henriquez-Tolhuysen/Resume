@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+pdflatex -jobname="2026 ES V3 Resumen - Jorge Henriquez" -output-directory=./resources Spanish.tex
