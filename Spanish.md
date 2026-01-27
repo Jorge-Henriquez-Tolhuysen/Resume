@@ -27,18 +27,19 @@
 - Desde 2013 a 2021, en [INTEGRA CHILE](https://www.integra-chile.cl) como Consultor Independiente, Configurando y Administrando Windows Server y SQL Server. Administrando Firewall Watchguard/Fortinet *(tecnologías relacionadas: WINDOWS SERVER/SQL SERVER/FIREWALL WATCHGUARD/FIREWALL FORTINET)*.
 - Desde 2016 a 2017, en [LICEO RAAC](https://www.liceoraac.cl) como Profesor para las asignaturas de Comunicaciones y Redes.
 - Desde 2003 a 2011, en TERRAGRICOLA como Consultar Independiente, Configurando y Administrando Servidores Windows/Netware/Linux. Administrando Watchguard Firewall.
-- Desde 2008 a 2009, en [UNIVERSIDAD AUSTRAL DE CHILE](https://www.uach.cl) como Profesor Asistente para las asignatura de ofimatica para estudiantes de la escuela de Medicina. Desarrollo de software *(related technologies: VISUAL STUDIO PROFESSIONAL/VB.NET/FLEX)*.
+- Desde 2008 a 2009, en [UNIVERSIDAD AUSTRAL DE CHILE](https://www.uach.cl) como Profesor Asistente para las asignatura de ofimatica para estudiantes de la escuela de Medicina. Desarrollo de software *(tecnologías relacionadas: VISUAL STUDIO PROFESSIONAL/VB.NET/FLEX)*.
 - Desde 2005 a 2006, en [INACAP](https://portal.inacap.cl) como Profesor para varias asignaturas para estudiantes de Ingeniería Informática en las sedes de Osorno y Puerto Montt.
 - Desde 2004 a 2005, en [UNIVERSIDAD DE LOS LAGOS](https://www.ulagos.cl) como Profesor para varias asignaturas para estudiantes de Ingeniería Informática en las sedes de Osorno y Puerto Montt.
-- Desde 2003 a 2005, en SINGA SA as Project Leader and Senior Developer for the SIPP Project Marine Harvest Puerto Montt *(related technologies: GENEXUS/VB6.0)*.
-- En el 2003, en INNOVA CHILE as Field Technician for ESSO Gas Stations.
+- Desde 2003 a 2005, en SINGA SA como Lider de Proyecto y Desarrollador Senior para el proyecto SIPP de Marine Harvest Puerto Montt *(tecnologías relacionadas: GENEXUS/VB6.0)*.
+- En el 2003, en INNOVA CHILE como Técnico en Terreno para las estaciones de servicio ESSO.
 - En el 2002, en [INACAP](https://portal.inacap.cl) como Profesor para varias asignaturas para estudiantes de Ingeniería Informática en la sede Osorno.
 - Desde 2001 a 2002, en TECNOLÓGICO DE LA UNIVERSIDAD DE LOS LAGOS como Profesor para varias asignaturas para estudiantes de Técnico en Informática.
 - Desde 1999 a 2002, en [TELEFÓNICA DEL SUR](https://telsur.cl) como Ingeniero de Proyectos.
 - Desde 1997 a 1998, en CDI DE LA UNIVERSIDAD DE LOS LAGOS como Profesor para varias asignaturas para estudiantes de Ingeniería Informática.
 
 ### Software Development Relevant Experience
-- From 2013 to 2018, SIPOS, Software development and TRANSBANK debit/credit card terminal integration for their product INTEGRATED POS with a WEB System. Developed for VITAMINA WORK LIFE, Santiago, Chile.Position: Analyst and Developer. Tool: Visual Studio 2017, VB.NET, ASP.NET. Duties: Analysis, Design and Development.
+- Desde 2021 al 2025, Desarrollo de complemento para Excel que permite importar Libros de Compras, Ventas y Honorarios generados por SAP. Desarrollado para STRATEX CONSULTORES, Osorno, Chile. Posición: Analista y Desarrollador. Herramientas: Visual Studio 2022, C#, Excel. Labores: Analisis, Diseño y Desarrollo.
+- Desde 2013 a 2018, SIPOS, Desarrollo de software e integracion de terminal de tarjetas de debito/credito TRANSBANK para su producto POS INTEGRATED POS, con Sistema WEB. Desarrollado para VITAMINA WORK LIFE, Santiago, Chile. Posición: Analista y Desarrollador. Herramientas: Visual Studio 2017, VB.NET, ASP.NET. Labores: Analisis, Diseño y Desarrollo.
 - From 2013 to 2018, SIDTE,	Software development and Integration of MANAGER ERP and a third party Electronic Tax Document (DTE) software. Developed for SERVIMAQ S.A., Osorno, Chile.Position: Analyst and Developer. Tools: Visual Studio 2017, VB.NET, ASP.NET. Duties: Analysis, Design and Development.
 - From 2012 to 2018, SIP,	System development for a blueberries packing plant, integrating static scales and third party software, ending with an autonomous system. Developed for TRUCAO BERRIES, Rio Negro, Chile. Position: Analyst and Developer. Tools: Visual Studio 2019, VB.NET, ASP.NET. Duties: Analysis, Design and Development.
 - From 2011 to 2018, KODAWARI, 	Development, maintenance an evolvement of a stock control and appointment keeping software for the KODAWARI certification fulfillment  for TOYOTA dealers. Developed for SERVIMAQ S.A.,Osorno, Chile. Position: Analyst and Developer. Tools: Genexus 9, VB6. Duties: Analysis, Design and Development.
