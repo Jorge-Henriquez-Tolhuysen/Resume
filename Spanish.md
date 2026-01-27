@@ -41,37 +41,37 @@
 - Desde 2021 al 2025, Desarrollo de complemento para Excel que permite importar Libros de Compras, Ventas y Honorarios generados por SAP. 
   1. Desarrollado para: STRATEX CONSULTORES, Osorno, Chile. 
   2. Posición: Analista y Desarrollador. 
-  3. Herramientas: Visual Studio 2022, C#, Excel. 
+  3. Herramientas: Visual Studio 2019-2022, C#, Excel. 
   4. Labores: Analisis, Diseño y Desarrollo.
 - Desde 2013 a 2018, SIPOS, Desarrollo de software e integracion de terminal de tarjetas de debito/credito TRANSBANK para su producto POS INTEGRATED POS, con Sistema WEB. 
   1. Desarrollado para: VITAMINA WORK LIFE, Santiago, Chile. 
   2. Posición: Analista y Desarrollador. 
-  3. Herramientas: Visual Studio 2017, VB.NET, ASP.NET. 
+  3. Herramientas: Visual Studio 2012-2017, VB.NET, ASP.NET. 
   4. Labores: Analisis, Diseño y Desarrollo.
 - From 2013 to 2018, SIDTE,	Desarrollo de Software e Integración de ERP MANAGER con software de terceros para la emision de documentos tributarios electrónicos (DTE). 
   1. DDesarrollado para: SERVIMAQ S.A., Osorno, Chile.
   2. Posición: Analista y Desarrollador. 
-  3. Herramientas: Visual Studio 2017, Visual Basic .NET, Xml, Dte. 
+  3. Herramientas: Visual Studio 2012-2017, Visual Basic .NET, Xml, Dte. 
   4. Labores: Analisis, Diseño y Desarrollo.
 - From 2012 to 2018, SIP, Desarrollo de sistema para planta de empacado de arandanos, integrando balanzas/romanas estáticas y software de terceros, culminando con un sistema autonomo.
   1. Desarrollado para: TRUCAO BERRIES, Rio Negro, Chile. 
   2. Posición: Analista y Desarrollador. 
-  3. Herramientas: Visual Studio 2019, Visual Basic .NET, Rs-232, Tcp-Ip. 
+  3. Herramientas: Visual Studio 2012-2019, Visual Basic .NET, Rs-232, Tcp-Ip. 
   4. Labores: Analisis, Diseño y Desarrollo.
 - From 2011 to 2018, KODAWARI, Desarrollo, mantenimiento y evolución de software para control de stock y agendamiento de citas para el cumplimiento de la certificación KODAWARI para concesionarios TOYOTA. 
   1. Desarrollado para: SERVIMAQ S.A.,Osorno, Chile. 
   2. Posición: Analista y Desarrollador. 
-  3. Herramientas: Genexus 9, VB6. 
+  3. Herramientas: Genexus 9, Visual Basic 6. 
   4. Labores: Analisis, Diseño y Desarrollo.
 - From 2003 to 2018, SIC, Desarrollo, mantenimiento y evolución de un sistema integrado Windows/Android para la recolección de información en terreno para la cosecha de arandanos, utilizando terminales de datos Honeywell, teléfonos celulares Samsung y un sistema de pago de nóminas. 
   1. Desarrollado para: TRUCAO BERRIES, Rio Negro, Chile. 
   2. Herramientas: Analista y Desarrollador. 
-  3. Labores: Visual Studio 2017, Visual Basic .NET, Android Studio, Java, Terminales Honeywell, Windows Embedded, Teléfonos Celulares Samsung, Códigos de Barra, Códigos QR, Impresoras Zebra. 
+  3. Labores: Visual Studio 2002-2017, Visual Basic .NET, Android Studio, Java, Terminales Honeywell, Windows Embedded, Teléfonos Celulares Samsung, Códigos de Barra, Códigos QR, Impresoras Zebra. 
   4. Labores: Analisis, Diseño y Desarrollo.
 - From 2015 to 2016, SIRC, Desarrollo de sistema integrado Windows/Android para la recolección de información en terreno de despachos de petroleo y la emisión del correspondiente documento tributario electrónico generado a travez de la automatización de software de terceros. 
   1. Desarrollado para: the HARR Building company, Osorno, Chile. 
   3. Posición: Analista y Desarrollador. 
-  4. Herramientas: Visual Studio 2017, Visual Basic .NET, Android Studio, Java, Transtecnia Contabilidad, Tcp-Ip. 
+  4. Herramientas: Visual Studio 2012-2015, Visual Basic .NET, Android Studio, Java, Transtecnia Contabilidad, Tcp-Ip. 
   4. Labores: Analisis, Diseño y Desarrollo.
 - 2016, SIFLEX,	Software para la extracción de datos para Balances Contables desde los datos ingresados en ERP FLEXLINE. 
   1. Desarrollado para: Salmones Caleta Bay, Osorno, Chile. 
