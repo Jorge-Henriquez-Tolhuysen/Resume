@@ -24,18 +24,18 @@
 - Desde 2019 a 2021, en [COMCIENCIA INFORMÁTICA SpA](https://www.comciencia.cl/#!/contacto) como Desarrollador Full Stack Senior, para el software [S-Verein](https://www.s-verein.de/), COMCIENCIA es una Compañia con Base en Chile de propiedad Alemana *(tecnologías relacionadas: PHP/ORACLE DB/MYSQL DB/MARIADB/PHPStorm/Youtrack/SVN/GIT/LINUX/AWS)*.
 - Desde 2010 a 2019, en SERVIMAQ SA como Consultor Independiente, Configurando y Administrando Windows Server y SQL Server. Administrando Firewall Watchguard y Desarrollando Software *(tecnologías relacionadas: WINDOWS SERVER/SQL SERVER/FIREWALL WATCHGUARD/GENEXUS/VB.NET/JAVA)* 
 - Desde 2003 a 2025, en [TRUCAO BERRIES](https://trucaoberries.com/es/inicio/) como Consultor Independiente, Configurando y Administrando Windows Server y SQL Server. Administrando Firewall Watchguard. Desarrollando Software *(tecnologías relacionadas: WINDOWS SERVER/SQL SERVER/ WATCHGUARD FIREWALL/VISUAL STUDIO PROFESSIONAL/VB.NET/ANDROID STUDIO/JAVA)*.
-- Desde 2013 to 2021, en [INTEGRA CHILE](https://www.integra-chile.cl) como Consultor Independiente, Configurando y Administrando Windows Server y SQL Server. Administrando Firewall Watchguard/Fortinet *(tecnologías relacionadas: WINDOWS SERVER/SQL SERVER/FIREWALL WATCHGUARD/FIREWALL FORTINET)*.
-- From 2016 to 2017, at [LICEO RAAC](https://www.liceoraac.cl) as Teacher for Networking and Communications Subjects.
-- From 2003 to 2011, at TERRAGRICOLA as Independent consultant, Windows/Netware/Linux Server configuration and administration. Watchguard Firewall Administration.
-- From 2008 to 2009, at [UNIVERSIDAD AUSTRAL DE CHILE](https://www.uach.cl) as Assistant Professor for office-related subjects in Medicine School. Software Development *(related technologies: VISUAL STUDIO PROFESSIONAL/VB.NET/FLEX)*.
-- From 2005 to 2006, at [INACAP](https://portal.inacap.cl) as Teacher in various subjects for Informatic Engineers in the Osorno and Puerto Montt branches.
-- From 2004 to 2005, at [UNIVERSIDAD DE LOS LAGOS](https://www.ulagos.cl) as Teacher in various courses for Informatic Engineers in the Osorno and Puerto Montt branches.
-- From 2003 to 2005, at SINGA SA as Project Leader and Senior Developer for the SIPP Project Marine Harvest Puerto Montt *(related technologies: GENEXUS/VB6.0)*.
-- 2003, at INNOVA CHILE as Field Technician for ESSO Gas Stations.
-- 2002, at [INACAP](https://portal.inacap.cl) as Teacher in various subjects for Informatic Engineers in Osorno branch.
-- From 2001 to 2002, at TECNOLOGICO DE LA UNIVERSIDAD DE LOS LAGOS as Teacher in various courses for Informatic Technicians.
-- From 1999 to 2002, at [TELEFONICA DEL SUR](https://telsur.cl) as Project Engineer.
-- From 1997 to 1998, at CDI DE LA UNIVERSIDAD DE LOS LAGOS as Teacher in various subjects for Informatic Engineers.
+- Desde 2013 a 2021, en [INTEGRA CHILE](https://www.integra-chile.cl) como Consultor Independiente, Configurando y Administrando Windows Server y SQL Server. Administrando Firewall Watchguard/Fortinet *(tecnologías relacionadas: WINDOWS SERVER/SQL SERVER/FIREWALL WATCHGUARD/FIREWALL FORTINET)*.
+- Desde 2016 a 2017, en [LICEO RAAC](https://www.liceoraac.cl) como Profesor para las asignaturas de Comunicaciones y Redes.
+- Desde 2003 a 2011, en TERRAGRICOLA como Consultar Independiente, Configurando y Administrando Servidores Windows/Netware/Linux. Administrando Watchguard Firewall.
+- Desde 2008 a 2009, en [UNIVERSIDAD AUSTRAL DE CHILE](https://www.uach.cl) como Profesor Asistente para las asignatura de ofimatica para estudiantes de la escuela de Medicina. Desarrollo de software *(related technologies: VISUAL STUDIO PROFESSIONAL/VB.NET/FLEX)*.
+- Desde 2005 a 2006, en [INACAP](https://portal.inacap.cl) como Profesor para varias asignaturas para estudiantes de Ingeniería Informática en las sedes de Osorno y Puerto Montt.
+- Desde 2004 a 2005, en [UNIVERSIDAD DE LOS LAGOS](https://www.ulagos.cl) como Profesor para varias asignaturas para estudiantes de Ingeniería Informática en las sedes de Osorno y Puerto Montt.
+- Desde 2003 a 2005, en SINGA SA as Project Leader and Senior Developer for the SIPP Project Marine Harvest Puerto Montt *(related technologies: GENEXUS/VB6.0)*.
+- En el 2003, en INNOVA CHILE as Field Technician for ESSO Gas Stations.
+- En el 2002, en [INACAP](https://portal.inacap.cl) como Profesor para varias asignaturas para estudiantes de Ingeniería Informática en la sede Osorno.
+- Desde 2001 a 2002, en TECNOLÓGICO DE LA UNIVERSIDAD DE LOS LAGOS como Profesor para varias asignaturas para estudiantes de Técnico en Informática.
+- Desde 1999 a 2002, en [TELEFÓNICA DEL SUR](https://telsur.cl) como Ingeniero de Proyectos.
+- Desde 1997 a 1998, en CDI DE LA UNIVERSIDAD DE LOS LAGOS como Profesor para varias asignaturas para estudiantes de Ingeniería Informática.
 
 ### Software Development Relevant Experience
 - From 2013 to 2018, SIPOS, Software development and TRANSBANK debit/credit card terminal integration for their product INTEGRATED POS with a WEB System. Developed for VITAMINA WORK LIFE, Santiago, Chile.Position: Analyst and Developer. Tool: Visual Studio 2017, VB.NET, ASP.NET. Duties: Analysis, Design and Development.
