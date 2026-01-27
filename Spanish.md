@@ -39,15 +39,47 @@
 
 ### Software Development Relevant Experience
 - Desde 2021 al 2025, Desarrollo de complemento para Excel que permite importar Libros de Compras, Ventas y Honorarios generados por SAP. 
-  1. Desarrollado para STRATEX CONSULTORES, Osorno, Chile. 
+  1. Desarrollado para: STRATEX CONSULTORES, Osorno, Chile. 
   2. Posición: Analista y Desarrollador. 
   3. Herramientas: Visual Studio 2022, C#, Excel. 
   4. Labores: Analisis, Diseño y Desarrollo.
-- Desde 2013 a 2018, SIPOS, Desarrollo de software e integracion de terminal de tarjetas de debito/credito TRANSBANK para su producto POS INTEGRATED POS, con Sistema WEB. Desarrollado para VITAMINA WORK LIFE, Santiago, Chile. Posición: Analista y Desarrollador. Herramientas: Visual Studio 2017, VB.NET, ASP.NET. Labores: Analisis, Diseño y Desarrollo.
-- From 2013 to 2018, SIDTE,	Software development and Integration of MANAGER ERP and a third party Electronic Tax Document (DTE) software. Developed for SERVIMAQ S.A., Osorno, Chile.Position: Analyst and Developer. Tools: Visual Studio 2017, VB.NET, ASP.NET. Duties: Analysis, Design and Development.
-- From 2012 to 2018, SIP,	System development for a blueberries packing plant, integrating static scales and third party software, ending with an autonomous system. Developed for TRUCAO BERRIES, Rio Negro, Chile. Position: Analyst and Developer. Tools: Visual Studio 2019, VB.NET, ASP.NET. Duties: Analysis, Design and Development.
-- From 2011 to 2018, KODAWARI, 	Development, maintenance an evolvement of a stock control and appointment keeping software for the KODAWARI certification fulfillment  for TOYOTA dealers. Developed for SERVIMAQ S.A.,Osorno, Chile. Position: Analyst and Developer. Tools: Genexus 9, VB6. Duties: Analysis, Design and Development.
--	From 2003 to 2018, SIC, Development, maintenance an evolvement of an integrated Windows/Android system for the field information collection for the blueberries harvesting, utilizing Honeywell Data Terminals, Samsung Cellphones and a Payroll System. Developed for TRUCAO BERRIES, Rio Negro, Chile. Position: Analyst and Developer. Tools: Visual Studio 2017, VB.NET, Android Studio, Java. Duties: Analysis, Design and Development.
--	From 2015 to 2016, SIRC, Development of a Windows/Android integrated system for the field information collection of petrol expenditures and its corresponding Electronic Tax Documents emitted trough a third party software. Developed for the HARR Building company, Osorno, Chile. Position: Analyst and Developer. Tools: Visual Studio 2017, VB.NET, Android Studio, Java. Duties: Analysis, Design and Development.
--	2016, SIFLEX,	Data extraction software development for the accounting balance sheet upon the data entered in FLEXLINE ERP. Developed for Salmones Caleta Bay, Osorno, Chile. Position: Analyst and Developer. Tools: Visual Studio 2017, VB.NET. Duties: Analysis, Design and Development.
--	From 2003 to 2005, SIPP,	Development for the production control software for salmon processing plants, integrating communication with static and dynamic scales, for the raw matter caliper sorting, finished product and packing registration as for the Honeywell data collecting terminals. Developed for Marine Harvest, Puerto Montt, Chile. Position: Analyst and Developer. Tools: Visual Studio 2017, VB.NET. Duties: Analysis, Design and Development.
+- Desde 2013 a 2018, SIPOS, Desarrollo de software e integracion de terminal de tarjetas de debito/credito TRANSBANK para su producto POS INTEGRATED POS, con Sistema WEB. 
+  1. Desarrollado para: VITAMINA WORK LIFE, Santiago, Chile. 
+  2. Posición: Analista y Desarrollador. 
+  3. Herramientas: Visual Studio 2017, VB.NET, ASP.NET. 
+  4. Labores: Analisis, Diseño y Desarrollo.
+- From 2013 to 2018, SIDTE,	Software development and Integration of MANAGER ERP and a third party Electronic Tax Document (DTE) software. 
+  1. DDesarrollado para: SERVIMAQ S.A., Osorno, Chile.
+  2. Posición: Analista y Desarrollador. 
+  3. Herramientas: Visual Studio 2017, VB.NET, ASP.NET. 
+  4. Labores: Analisis, Diseño y Desarrollo.
+- From 2012 to 2018, SIP,	System development for a blueberries packing plant, integrating static scales and third party software, ending with an autonomous system.
+  1. Desarrollado para: TRUCAO BERRIES, Rio Negro, Chile. 
+  2. Posición: Analista y Desarrollador. 
+  3. Herramientas: Visual Studio 2019, VB.NET, ASP.NET. 
+  4. Labores: Analisis, Diseño y Desarrollo.
+- From 2011 to 2018, KODAWARI, 	Development, maintenance an evolvement of a stock control and appointment keeping software for the KODAWARI certification fulfillment  for TOYOTA dealers. 
+  1. Desarrollado para: SERVIMAQ S.A.,Osorno, Chile. 
+  2. Posición: Analista y Desarrollador. 
+  3. Herramientas: Genexus 9, VB6. 
+  4. Labores: Analisis, Diseño y Desarrollo.
+- From 2003 to 2018, SIC, Development, maintenance an evolvement of an integrated Windows/Android system for the field information collection for the blueberries harvesting, utilizing Honeywell Data Terminals, Samsung Cellphones and a Payroll System. 
+  1. Desarrollado para: TRUCAO BERRIES, Rio Negro, Chile. 
+  2. Herramientas: Analista y Desarrollador. 
+  3. Labores: Visual Studio 2017, VB.NET, Android Studio, Java. 
+  4. Labores: Analisis, Diseño y Desarrollo.
+- From 2015 to 2016, SIRC, Development of a Windows/Android integrated system for the field information collection of petrol expenditures and its corresponding Electronic Tax Documents emitted trough a third party software. 
+  1. Desarrollado para: the HARR Building company, Osorno, Chile. 
+  3. Posición: Analista y Desarrollador. 
+  4. Herramientas: Visual Studio 2017, VB.NET, Android Studio, Java. 
+  4. Labores: Analisis, Diseño y Desarrollo.
+- 2016, SIFLEX,	Data extraction software development for the accounting balance sheet upon the data entered in FLEXLINE ERP. 
+  1. Desarrollado para: Salmones Caleta Bay, Osorno, Chile. 
+  2. Posición: Analista y Desarrollador. 
+  3. Herramientas: Visual Studio 2017, VB.NET. 
+  4. Labores: Analisis, Diseño y Desarrollo.
+- From 2003 to 2005, SIPP,	Development for the production control software for salmon processing plants, integrating communication with static and dynamic scales, for the raw matter caliper sorting, finished product and packing registration as for the Honeywell data collecting terminals. 
+  1. Desarrollado para: Marine Harvest, Puerto Montt, Chile. 
+  2. Posición: Analista y Desarrollador. 
+  3. Herramientas: Visual Studio 2017, VB.NET. 
+  4. Labores: Analisis, Diseño y Desarrollo.
