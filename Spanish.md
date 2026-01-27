@@ -16,6 +16,7 @@
 - 2006, Sun Certified Java Programmer de Sun Microsystems, con 88% rendimiento.
 
 ### Experiencia Laboral
+- 2026,  en ALVAREZ & ASOCIADOS SpA como Consultor Independiente, Migra aplicación para el Escritorio de Windows, escrita en C\#, con .Net Framework 4.78 y usando Windows Forms a versión con .Net 8, WinUi 3. *(tecnologías relacionadas: VISUAL STUDIO 2026/C#/.NET 8.0/WINUI 3/WEBVIEW/HTML/JAVASCRIPT/CSS)*.
 - Desde 2021 a 2025, en [FACILITY CONSULTANTS GmbH](https://www.get-fm.de) como Consultor Independiente, Desarrolló una Clase PHP que toma un Archivo AutoCAD 2D DWG y genera código SVG. Programó una Libreria JavaScript que acepta un archivo BIM y produce un renderizado 3D del mismo, ambas son usadas en el mismo sitio web *(tecnologías relacionadas: VISUAL STUDIO CODE/PHP/JAVASCRIPT/TYPESCRIPT/TAILWINDCSS/THREEJS)*.
 - Desde 2021 a 2025, en ALVAREZ & ASOCIADOS SpA como Consultor Independiente, Construyó una aplicación para el Escritorio de Windows, escrita en C#, que hace web scraping de un ERP y genera salidas de Balances y Estados de Resultados en pantalla y archivos Excel *(tecnologías relacionadas: VISUAL STUDIO PROFESIONAL 2022/C#)*.
 - Desde 2021 a 2025, en [STRATEX CONSULTORES](https://stratex.cl) como Consultor Independiente, Programó un Complemento Excel, escrito en C#, para Importar y Fusionar Archivos de Texto de manera desatendida *(tecnologías relacionadas: VISUAL STUDIO PROFESIONAL 2022/C#)*.
