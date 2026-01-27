@@ -48,38 +48,38 @@
   2. Posición: Analista y Desarrollador. 
   3. Herramientas: Visual Studio 2017, VB.NET, ASP.NET. 
   4. Labores: Analisis, Diseño y Desarrollo.
-- From 2013 to 2018, SIDTE,	Software development and Integration of MANAGER ERP and a third party Electronic Tax Document (DTE) software. 
+- From 2013 to 2018, SIDTE,	Desarrollo de Software e Integración de ERP MANAGER con software de terceros para la emision de documentos tributarios electrónicos (DTE). 
   1. DDesarrollado para: SERVIMAQ S.A., Osorno, Chile.
   2. Posición: Analista y Desarrollador. 
-  3. Herramientas: Visual Studio 2017, VB.NET, ASP.NET. 
+  3. Herramientas: Visual Studio 2017, Visual Basic .NET, Xml, Dte. 
   4. Labores: Analisis, Diseño y Desarrollo.
-- From 2012 to 2018, SIP,	System development for a blueberries packing plant, integrating static scales and third party software, ending with an autonomous system.
+- From 2012 to 2018, SIP, Desarrollo de sistema para planta de empacado de arandanos, integrando balanzas/romanas estáticas y software de terceros, culminando con un sistema autonomo.
   1. Desarrollado para: TRUCAO BERRIES, Rio Negro, Chile. 
   2. Posición: Analista y Desarrollador. 
-  3. Herramientas: Visual Studio 2019, VB.NET, ASP.NET. 
+  3. Herramientas: Visual Studio 2019, Visual Basic .NET, Rs-232, Tcp-Ip. 
   4. Labores: Analisis, Diseño y Desarrollo.
-- From 2011 to 2018, KODAWARI, 	Development, maintenance an evolvement of a stock control and appointment keeping software for the KODAWARI certification fulfillment  for TOYOTA dealers. 
+- From 2011 to 2018, KODAWARI, Desarrollo, mantenimiento y evolución de software para control de stock y agendamiento de citas para el cumplimiento de la certificación KODAWARI para concesionarios TOYOTA. 
   1. Desarrollado para: SERVIMAQ S.A.,Osorno, Chile. 
   2. Posición: Analista y Desarrollador. 
   3. Herramientas: Genexus 9, VB6. 
   4. Labores: Analisis, Diseño y Desarrollo.
-- From 2003 to 2018, SIC, Development, maintenance an evolvement of an integrated Windows/Android system for the field information collection for the blueberries harvesting, utilizing Honeywell Data Terminals, Samsung Cellphones and a Payroll System. 
+- From 2003 to 2018, SIC, Desarrollo, mantenimiento y evolución de un sistema integrado Windows/Android para la recolección de información en terreno para la cosecha de arandanos, utilizando terminales de datos Honeywell, teléfonos celulares Samsung y un sistema de pago de nóminas. 
   1. Desarrollado para: TRUCAO BERRIES, Rio Negro, Chile. 
   2. Herramientas: Analista y Desarrollador. 
-  3. Labores: Visual Studio 2017, VB.NET, Android Studio, Java. 
+  3. Labores: Visual Studio 2017, Visual Basic .NET, Android Studio, Java, Terminales Honeywell, Windows Embedded, Teléfonos Celulares Samsung, Códigos de Barra, Códigos QR, Impresoras Zebra. 
   4. Labores: Analisis, Diseño y Desarrollo.
-- From 2015 to 2016, SIRC, Development of a Windows/Android integrated system for the field information collection of petrol expenditures and its corresponding Electronic Tax Documents emitted trough a third party software. 
+- From 2015 to 2016, SIRC, Desarrollo de sistema integrado Windows/Android para la recolección de información en terreno de despachos de petroleo y la emisión del correspondiente documento tributario electrónico generado a travez de la automatización de software de terceros. 
   1. Desarrollado para: the HARR Building company, Osorno, Chile. 
   3. Posición: Analista y Desarrollador. 
-  4. Herramientas: Visual Studio 2017, VB.NET, Android Studio, Java. 
+  4. Herramientas: Visual Studio 2017, Visual Basic .NET, Android Studio, Java, Transtecnia Contabilidad, Tcp-Ip. 
   4. Labores: Analisis, Diseño y Desarrollo.
-- 2016, SIFLEX,	Data extraction software development for the accounting balance sheet upon the data entered in FLEXLINE ERP. 
+- 2016, SIFLEX,	Software para la extracción de datos para Balances Contables desde los datos ingresados en ERP FLEXLINE. 
   1. Desarrollado para: Salmones Caleta Bay, Osorno, Chile. 
   2. Posición: Analista y Desarrollador. 
-  3. Herramientas: Visual Studio 2017, VB.NET. 
+  3. Herramientas: Visual Studio 2015, Visual Basic .NET, ERP Flexline. 
   4. Labores: Analisis, Diseño y Desarrollo.
-- From 2003 to 2005, SIPP,	Development for the production control software for salmon processing plants, integrating communication with static and dynamic scales, for the raw matter caliper sorting, finished product and packing registration as for the Honeywell data collecting terminals. 
+- From 2003 to 2005, SIPP,	Desarrollo para software de control de producción de plantas de proceso de salmón, integrando comunicación con balanzas estáticas y dinámicas, para el calibrado de materia prima, producto términado y registro de embalajes, asi como para los terminales de recolección de datos Honeywell. 
   1. Desarrollado para: Marine Harvest, Puerto Montt, Chile. 
   2. Posición: Analista y Desarrollador. 
-  3. Herramientas: Visual Studio 2017, VB.NET. 
+  3. Herramientas: Genexus 9, Visual Basic 6, Rs-232, Terminales Honeywell, Windows Embedded, Códigos de Barra, Impresoras Zebra. 
   4. Labores: Analisis, Diseño y Desarrollo.
