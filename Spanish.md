@@ -38,7 +38,11 @@
 - Desde 1997 a 1998, en CDI DE LA UNIVERSIDAD DE LOS LAGOS como Profesor para varias asignaturas para estudiantes de Ingeniería Informática.
 
 ### Software Development Relevant Experience
-- Desde 2021 al 2025, Desarrollo de complemento para Excel que permite importar Libros de Compras, Ventas y Honorarios generados por SAP. Desarrollado para STRATEX CONSULTORES, Osorno, Chile. Posición: Analista y Desarrollador. Herramientas: Visual Studio 2022, C#, Excel. Labores: Analisis, Diseño y Desarrollo.
+- Desde 2021 al 2025, Desarrollo de complemento para Excel que permite importar Libros de Compras, Ventas y Honorarios generados por SAP. 
+  1. Desarrollado para STRATEX CONSULTORES, Osorno, Chile. 
+  2. Posición: Analista y Desarrollador. 
+  3. Herramientas: Visual Studio 2022, C#, Excel. 
+  4. Labores: Analisis, Diseño y Desarrollo.
 - Desde 2013 a 2018, SIPOS, Desarrollo de software e integracion de terminal de tarjetas de debito/credito TRANSBANK para su producto POS INTEGRATED POS, con Sistema WEB. Desarrollado para VITAMINA WORK LIFE, Santiago, Chile. Posición: Analista y Desarrollador. Herramientas: Visual Studio 2017, VB.NET, ASP.NET. Labores: Analisis, Diseño y Desarrollo.
 - From 2013 to 2018, SIDTE,	Software development and Integration of MANAGER ERP and a third party Electronic Tax Document (DTE) software. Developed for SERVIMAQ S.A., Osorno, Chile.Position: Analyst and Developer. Tools: Visual Studio 2017, VB.NET, ASP.NET. Duties: Analysis, Design and Development.
 - From 2012 to 2018, SIP,	System development for a blueberries packing plant, integrating static scales and third party software, ending with an autonomous system. Developed for TRUCAO BERRIES, Rio Negro, Chile. Position: Analyst and Developer. Tools: Visual Studio 2019, VB.NET, ASP.NET. Duties: Analysis, Design and Development.
