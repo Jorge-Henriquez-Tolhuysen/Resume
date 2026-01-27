@@ -37,7 +37,7 @@
 - Desde 1999 a 2002, en [TELEFÓNICA DEL SUR](https://telsur.cl) como Ingeniero de Proyectos.
 - Desde 1997 a 1998, en CDI DE LA UNIVERSIDAD DE LOS LAGOS como Profesor para varias asignaturas para estudiantes de Ingeniería Informática.
 
-### Software Development Relevant Experience
+### Experiencia Relevante en Desarrollo de Software
 - En el 2026, Migra aplicación escrita en C#, usando .Net Framework 4.78 y Windows Forms a .Net 8.0 y WinUI 3.
   1. Nombre del Software: SICE.NEXT.
   2. Desarrollado para: ALVAREZ & ASOCIADOS S.p.A., Osorno, Chile.
