@@ -11,3 +11,5 @@ This repository contains resumes and documents related to Jorge Henriquez Tolhuy
 - [Hacker Rank Profile/Perfil en Hacker Rank](https://www.hackerrank.com/profile/jorge_henriquez)
 
 For Latex
+- [Source Code for Spanish Resume/Código Fuente para Curriculum Vitae en Español](https://github.com/Jorge-Henriquez-Tolhuysen/Resume/blob/main/Spanish.tex)
+- [Tools used/Herramientas usadas: MacTex](https://www.tug.org/mactex/)
