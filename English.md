@@ -37,11 +37,43 @@
 - From 1997 to 1998, at CDI DE LA UNIVERSIDAD DE LOS LAGOS as Teacher in various subjects for Informatic Engineers.
 
 ### Software Development Relevant Experience
-- From 2013 to 2018, SIPOS, Software development and TRANSBANK debit/credit card terminal integration for their product INTEGRATED POS with a WEB System. Developed for VITAMINA WORK LIFE, Santiago, Chile.Position: Analyst and Developer. Tool: Visual Studio 2017, VB.NET, ASP.NET. Duties: Analysis, Design and Development.
-- From 2013 to 2018, SIDTE,	Software development and Integration of MANAGER ERP and a third party Electronic Tax Document (DTE) software. Developed for SERVIMAQ S.A., Osorno, Chile.Position: Analyst and Developer. Tools: Visual Studio 2017, VB.NET, ASP.NET. Duties: Analysis, Design and Development.
-- From 2012 to 2018, SIP,	System development for a blueberries packing plant, integrating static scales and third party software, ending with an autonomous system. Developed for TRUCAO BERRIES, Rio Negro, Chile. Position: Analyst and Developer. Tools: Visual Studio 2019, VB.NET, ASP.NET. Duties: Analysis, Design and Development.
-- From 2011 to 2018, KODAWARI, 	Development, maintenance an evolvement of a stock control and appointment keeping software for the KODAWARI certification fulfillment  for TOYOTA dealers. Developed for SERVIMAQ S.A.,Osorno, Chile. Position: Analyst and Developer. Tools: Genexus 9, VB6. Duties: Analysis, Design and Development.
--	From 2003 to 2018, SIC, Development, maintenance an evolvement of an integrated Windows/Android system for the field information collection for the blueberries harvesting, utilizing Honeywell Data Terminals, Samsung Cellphones and a Payroll System. Developed for TRUCAO BERRIES, Rio Negro, Chile. Position: Analyst and Developer. Tools: Visual Studio 2017, VB.NET, Android Studio, Java. Duties: Analysis, Design and Development.
--	From 2015 to 2016, SIRC, Development of a Windows/Android integrated system for the field information collection of petrol expenditures and its corresponding Electronic Tax Documents emitted trough a third party software. Developed for the HARR Building company, Osorno, Chile. Position: Analyst and Developer. Tools: Visual Studio 2017, VB.NET, Android Studio, Java. Duties: Analysis, Design and Development.
--	2016, SIFLEX,	Data extraction software development for the accounting balance sheet upon the data entered in FLEXLINE ERP. Developed for Salmones Caleta Bay, Osorno, Chile. Position: Analyst and Developer. Tools: Visual Studio 2017, VB.NET. Duties: Analysis, Design and Development.
--	From 2003 to 2005, SIPP,	Development for the production control software for salmon processing plants, integrating communication with static and dynamic scales, for the raw matter caliper sorting, finished product and packing registration as for the Honeywell data collecting terminals. Developed for Marine Harvest, Puerto Montt, Chile. Position: Analyst and Developer. Tools: Visual Studio 2017, VB.NET. Duties: Analysis, Design and Development.
+- From 2013 to 2018, SIPOS, Software development and TRANSBANK debit/credit card terminal integration for their product INTEGRATED POS with a WEB System. 
+  1. Developed for: VITAMINA WORK LIFE, Santiago, Chile.
+  2. Position: Analyst and Developer. 
+  3. Tool: Visual Studio 2012, Visual Basic .NET, Asp .NET. 
+  4. Duties: Analysis, Design and Development.
+- From 2013 to 2018, SIDTE,	Software development and Integration of MANAGER ERP and a third party Electronic Tax Document (DTE) software. 
+  1. Developed for SERVIMAQ S.A., Osorno, Chile.
+  2. Position: Analyst and Developer. 
+  3. Tools: Visual Studio 2012-2017, Visual Basic .NET, Xml, Dte. 
+  4. Duties: Analysis, Design and Development.
+- From 2012 to 2018, SIP,	System development for a blueberries packing plant, integrating static scales and third party software, ending with an autonomous system. 
+  1. Developed for: TRUCAO BERRIES, Rio Negro, Chile. 
+  2. Position: Analyst and Developer. 
+  3. Tools: Visual Studio 2012-2019, Visual Basic .NET, Rs-232, Tcp-Ip. 
+  4. Duties: Analysis, Design and Development.
+- From 2011 to 2018, KODAWARI, 	Development, maintenance an evolvement of a stock control and appointment keeping software for the KODAWARI certification fulfillment  for TOYOTA dealers. 
+  1. Developed for: SERVIMAQ S.A.,Osorno, Chile. 
+  2. Position: Analyst and Developer. 
+  3. Tools: Genexus 9, Visual Basic 6. 
+  4. Duties: Analysis, Design and Development.
+- From 2003 to 2018, SIC, Development, maintenance an evolvement of an integrated Windows/Android system for the field information collection for the blueberries harvesting, utilizing Honeywell Data Terminals, Samsung Cellphones and a Payroll System. 
+  1. Developed for: TRUCAO BERRIES, Rio Negro, Chile. 
+  2. Position: Analyst and Developer. 
+  3. Tools: Visual Studio 2002-2017, Visual Basic .NET, Android Studio, Java, Honeywell Terminals, Windows Embedded, Samsung Cellphones, Bar Codes, QR Codes, Zebra printers. 
+  4. Duties: Analysis, Design and Development.
+- From 2015 to 2016, SIRC, Development of a Windows/Android integrated system for the field information collection of petrol expenditures and its corresponding Electronic Tax Documents emitted trough a third party software. 
+  1. Developed for: the HARR Building company, Osorno, Chile. 
+  2. Position: Analyst and Developer. 
+  3. Tools: Visual Studio 2012-2015, Visual Basic .NET, Android Studio, Java, Transtecnia Contabilidad, Tcp-Ip. 
+  4. Duties: Analysis, Design and Development.
+- 2016, SIFLEX,	Data extraction software development for the accounting balance sheet upon the data entered in FLEXLINE ERP. 
+  1. Developed for: Salmones Caleta Bay, Osorno, Chile. 
+  2. Position: Analyst and Developer. 
+  3. Tools: Visual Studio 2015, Visual Basic .NET, ERP Flexline. 
+  4. Duties: Analysis, Design and Development.
+- From 2003 to 2005, SIPP,	Development for the production control software for salmon processing plants, integrating communication with static and dynamic scales, for the raw matter caliper sorting, finished product and packing registration as for the Honeywell data collecting terminals. 
+  1. Developed for: Marine Harvest, Puerto Montt, Chile. 
+  2. Position: Analyst and Developer. 
+  3. Tools: Genexus 9, Visual Basic 6, Rs-232, Honeywell Terminals, Windows Embedded, Bar Codes, Zebra Printers. 
+  4. Duties: Analysis, Design and Development.

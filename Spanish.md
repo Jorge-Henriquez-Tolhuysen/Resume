@@ -46,7 +46,7 @@
 - Desde 2013 a 2018, SIPOS, Desarrollo de software e integracion de terminal de tarjetas de debito/credito TRANSBANK para su producto POS INTEGRATED POS, con Sistema WEB. 
   1. Desarrollado para: VITAMINA WORK LIFE, Santiago, Chile. 
   2. Posición: Analista y Desarrollador. 
-  3. Herramientas: Visual Studio 2012-2017, VB.NET, ASP.NET. 
+  3. Herramientas: Visual Studio 2012, Visual Basic .NET, Asp .NET. 
   4. Labores: Analisis, Diseño y Desarrollo.
 - From 2013 to 2018, SIDTE,	Desarrollo de Software e Integración de ERP MANAGER con software de terceros para la emision de documentos tributarios electrónicos (DTE). 
   1. DDesarrollado para: SERVIMAQ S.A., Osorno, Chile.
