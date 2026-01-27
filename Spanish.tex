@@ -30,26 +30,26 @@
     pdfproducer={Latex con hyperref},
     pdfcreator={pdflatex}
 ]{hyperref}                 % Paquete para hipervínculos
-\usepackage[T1]{fontenc}    % Set the font (output) encodings
+\usepackage[T1]{fontenc}    % Ajustamos la codificación de las fonts (salida)
 \usepackage{tgbonum}
-\usepackage[spanish]{babel} % Spanish-specific commands
+\usepackage[spanish]{babel} % Comando especifico para guionado de palabras en español
 \usepackage[
-    paperwidth=21.59cm,     % Set the width of the paper
-    paperheight=27.94cm,    % Set the height and width of the paper
+    paperwidth=21.59cm,     % Establecemos el ancho del papel (letter width)
+    paperheight=27.94cm,    % Establecemos el alto del papel (letter height)
     includehead,
-    nomarginpar,            % We don't want any margin paragraphs
-    textwidth=18cm,         % Set \textwidth to 10cm
-    textheight=21.5cm,
-    headheight=87.93pt,      % Set \headheight to 83.9 pt
+    nomarginpar,            % Nada de margenes en los parrafos
+    textwidth=18cm,         % Establecemos el ancho del area de texto a 18cm
+    textheight=21.5cm,      % Establecemos el alto  del area de texto a 21.5cm
+    headheight=87.93pt,     % Establecemos el alto del encabezado a 83.9 pt
 ]{geometry}
 \usepackage{xcolor}
 \usepackage{fancyhdr}
 \author{Jorge C. Henríquez Tolhuysen}
 \date{\today}
 \begin{document}
-\pagestyle{fancy}           % Set the page style to "fancy"...
-\fancyhead{}                % clear all header fields
-\fancyfoot{}                % clear all footer fields
+\pagestyle{fancy}           % Establecemos el estilo de página a "fancy"...
+\fancyhead{}                % borramos los encabezados de página
+\fancyfoot{}                % borramos los pies de página
 \fancyhead[C]{
     \colorbox{lightgray}{%
         \parbox{0.98\headwidth}{
@@ -69,8 +69,8 @@
         }
     }%
 }
-\fancyfoot[R]{\thepage} % footer for the right side
-\fancyfoot[L]{Jorge Henríquez Tolhuysen, \today, creado con \LaTeX} % footer for the left side
+\fancyfoot[R]{\thepage} % pie de página lado derecho
+\fancyfoot[L]{Jorge Henríquez Tolhuysen, \today, creado con \LaTeX} % pie de página lado izquierdo
 
 \section{Competencias Técnicas}
 \label{sec:competencias-section}
